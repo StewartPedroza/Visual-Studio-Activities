@@ -1,0 +1,17 @@
+D:\VS Projects\Student Information Pedroza\bin\Debug\net7.0-windows\Student Information Pedroza.exe
+D:\VS Projects\Student Information Pedroza\bin\Debug\net7.0-windows\Student Information Pedroza.deps.json
+D:\VS Projects\Student Information Pedroza\bin\Debug\net7.0-windows\Student Information Pedroza.runtimeconfig.json
+D:\VS Projects\Student Information Pedroza\bin\Debug\net7.0-windows\Student Information Pedroza.dll
+D:\VS Projects\Student Information Pedroza\bin\Debug\net7.0-windows\Student Information Pedroza.pdb
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.csproj.AssemblyReference.cache
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student_Information_Pedroza.Form1.resources
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.csproj.GenerateResource.cache
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.AssemblyInfoInputs.cache
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.AssemblyInfo.cs
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.csproj.CoreCompileInputs.cache
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.dll
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\refint\Student Information Pedroza.dll
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.pdb
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\Student Information Pedroza.genruntimeconfig.cache
+D:\VS Projects\Student Information Pedroza\obj\Debug\net7.0-windows\ref\Student Information Pedroza.dll
